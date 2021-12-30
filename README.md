@@ -1,6 +1,6 @@
 - 👋 Hi, I’m PCRepairDoctor
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Mobile Web Development
+- 👀 I’m interested in Cyber Securitya Web Developer
+- 🌱 I’m currently learning Software Development
 - 💞️ I’m looking to collaborate on many Open Source Projects
 - 📫 How to reach me https://bio.link/pcrd | @pcrd | @devpcrd
 
